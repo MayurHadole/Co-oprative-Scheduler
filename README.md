@@ -1,0 +1,3 @@
+- Task Switcher that uses a set of Process Control Blocks to switch threads pre -emtively and co-operatively.
+- Created different shell commands to add tasks, kill tasks, initializing the tasks, task scheduling, check null tasks and self-destruction of tasks.
+- Implemented on STM32F3 discovery board.
